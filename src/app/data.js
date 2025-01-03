@@ -50,7 +50,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/Nimish_resume.pdf",
+    link: "/Nimish_Vijay_Vadgaonkar(resume).pdf",
     icon: "resume",
     newTab: true,
   },
