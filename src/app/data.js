@@ -23,6 +23,14 @@ export const projectsData = [
     demoLink: "https://somaiya0-my.sharepoint.com/:u:/g/personal/n_vadgaonkar_somaiya_edu/EajFz3FR6-xInT8YIzIhLgoBqYQLkdA7HJxXkhRi2SnxaQ?e=gNiEon",
   },
 
+  {
+    id: 3,
+    name: "Real Estate Price Prediction: A Data-Driven Approach",
+    description: "Machine Learning for Housing Price Prediction",
+    date: "2025-01-09",
+    demoLink: "https://github.com/Nimi2607/Real-Estate-prediction-IBM-Data-Analysis-",
+  },
+
 ];
 
 export const BtnList = [
