@@ -29,7 +29,7 @@ export const projectsData = [
     description: "Machine Learning for Housing Price Prediction",
     date: "2025-01-09",
     demoLink: "https://github.com/Nimi2607/Real-Estate-prediction-IBM-Data-Analysis-",
-  }
+  },
 
 ];
 
